@@ -2,8 +2,8 @@ package main
 
 import (
 	"github.com/gin-gonic/gin"
+	"github.com/indrabpn12/Rest_API_Test.git/controllers/productController"
 	"github.com/indrabpn12/Rest_API_Test.git/models"
-	"github.com/indrabpn12/Rest_API_Test.git/productController"
 )
 
 func main() {
